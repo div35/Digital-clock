@@ -1,0 +1,41 @@
+body {
+    background-color:#fdeceb ;
+    color: red;
+}
+
+table {
+    width: 90%;
+    margin: 40px;
+    border: 20px solid black;
+    border-radius: 20px 0px 20px 0px;
+    
+}
+
+th,
+td {
+    border: 5px solid #f7bfbe;
+    background-color: black;
+}
+
+#content {
+
+    height: 100px;
+    text-align: center;
+}
+
+
+/*
+#contentHeading{
+    align it properly;
+}
+*/
+
+#day,
+#date {
+    height: 100px;
+    text-align: center;
+}
+
+.blank {
+    opacity: 0;
+}
